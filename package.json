@@ -1,0 +1,6 @@
+{
+  "name": "agent-held-generador-de-recetas-saludable-moro12e1",
+  "version": "1.0.0",
+  "description": "Proyecto de Held [Gen14]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
